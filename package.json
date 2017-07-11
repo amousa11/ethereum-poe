@@ -1,0 +1,116 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "iota.lib.js@^0.3.0",
+        "scope": null,
+        "escapedName": "iota.lib.js",
+        "name": "iota.lib.js",
+        "rawSpec": "^0.3.0",
+        "spec": ">=0.3.0 <0.4.0",
+        "type": "range"
+      },
+      "/Users/aparnakrishnan/Documents/iotawallet"
+    ]
+  ],
+  "_from": "iota.lib.js@>=0.3.0 <0.4.0",
+  "_id": "iota.lib.js@0.3.0",
+  "_inCache": true,
+  "_location": "/iota.lib.js",
+  "_nodeVersion": "4.2.1",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/iota.lib.js-0.3.0.tgz_1497354115202_0.04969358700327575"
+  },
+  "_npmUser": {
+    "name": "domschiener",
+    "email": "dom@schiener.me"
+  },
+  "_npmVersion": "3.9.5",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "iota.lib.js@^0.3.0",
+    "scope": null,
+    "escapedName": "iota.lib.js",
+    "name": "iota.lib.js",
+    "rawSpec": "^0.3.0",
+    "spec": ">=0.3.0 <0.4.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/iota.lib.js/-/iota.lib.js-0.3.0.tgz",
+  "_shasum": "6de97f678c77a05d999d51d7cc74f0257660f300",
+  "_shrinkwrap": null,
+  "_spec": "iota.lib.js@^0.3.0",
+  "_where": "/Users/aparnakrishnan/Documents/iotawallet",
+  "author": {
+    "name": "Dominik Schiener",
+    "url": "IOTA Foundation"
+  },
+  "bugs": {
+    "url": "https://github.com/iotaledger/iota.lib.js/issues"
+  },
+  "dependencies": {
+    "async": "^2.4.1",
+    "big.js": "^3.1.3",
+    "browserify": "^14.4.0",
+    "mocha": "^3.4.2",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "description": "Javascript Library for IOTA",
+  "devDependencies": {
+    "bower": "^1.8.0",
+    "browserify": "^14.1.0",
+    "chai": "^3.5.0",
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-jshint": "^2.0.2",
+    "gulp-nsp": "^2.4.2",
+    "gulp-rename": "^1.2.2",
+    "gulp-replace": "^0.5.4",
+    "gulp-uglify": "^2.1.2",
+    "jshint": "^2.9.4",
+    "mocha": "^3.2.0",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "6de97f678c77a05d999d51d7cc74f0257660f300",
+    "tarball": "https://registry.npmjs.org/iota.lib.js/-/iota.lib.js-0.3.0.tgz"
+  },
+  "gitHead": "34ba0a07801ccbbce94e9447d293797aa796078f",
+  "homepage": "https://github.com/iotaledger/iota.lib.js#readme",
+  "keywords": [
+    "iota",
+    "tangle",
+    "library",
+    "browser",
+    "javascript",
+    "nodejs",
+    "API"
+  ],
+  "license": "MIT",
+  "main": "./lib/iota.js",
+  "maintainers": [
+    {
+      "name": "domschiener",
+      "email": "dom@schiener.me"
+    }
+  ],
+  "name": "iota.lib.js",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iotaledger/iota.lib.js.git"
+  },
+  "scripts": {
+    "build": "gulp",
+    "test": "mocha"
+  },
+  "version": "0.3.0"
+}
