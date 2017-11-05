@@ -9,3 +9,5 @@ Once you clone the repository run:
 Set your MetaMask to use the Kovan Test Network.
 
 See `Existence.sol` for the smart contract (hosted on Kovan Testnet).
+
+```Ethereum Proof of Existence dApp built in a day since I couldn't really find one online!```
